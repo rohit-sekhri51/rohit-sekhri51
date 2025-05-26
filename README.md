@@ -75,11 +75,6 @@ Welcome to my GitHub! I'm a full-stack developer with a passion for blockchain, 
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
----
-
-## 📢 Reach Me
-- GitHub: [rohit-sekhri51](https://github.com/rohit-sekhri51)
-- LinkedIn: [rohit-sekhri](https://linkedin.com/in/rohit-sekhri)
 
 ---
 
